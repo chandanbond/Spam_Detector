@@ -1,17 +1,17 @@
 # Spam_Detector
-# A Machine Learning-based web application built with Django that detects whether a given message is Spam or Not Spam.
+##  A Machine Learning-based web application built with Django that detects whether a given message is Spam or Not Spam.
 
 # 📌 Features
-# 🔍 Detect spam messages instantly
-# 💻 Clean and simple UI
-# ⚡ Fast prediction using trained ML model
-# 🧠 Machine Learning integration with Django
+🔍 Detect spam messages instantly
+💻 Clean and simple UI
+⚡ Fast prediction using trained ML model
+🧠 Machine Learning integration with Django
 
 # 🛠️ Tech Stack
-# Backend: Django (Python)
-# Machine Learning: scikit-learn
-# Data Processing: pandas, numpy
-# Frontend: HTML, CSS
+Backend: Django (Python)
+Machine Learning: scikit-learn
+Data Processing: pandas, numpy
+Frontend: HTML, CSS
 
 # 📂 Project Structure
 spam_detection/
