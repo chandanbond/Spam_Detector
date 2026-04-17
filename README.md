@@ -39,3 +39,5 @@ Model predicts result
 👨‍💻 Author
 
 Chandan Patel
+Deval Srivastava
+Harsh Yadav
